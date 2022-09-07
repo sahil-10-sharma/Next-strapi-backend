@@ -1,0 +1,2 @@
+DATABASE_URL:               postgres://kytcnrajrhbdya:c46216b127f66c77c32a3abb2b39613cbb4194b611670a89cc915177fe58c57b@ec2-54-163-34-107.compute-1.amazonaws.com:5432/d5t78rhda732ct
+HEROKU_POSTGRESQL_ONYX_URL: postgres://lrjxununmrdmwe:61a8a6b30c0ab07572ef682a973eddd0d1d83d54a1d1036262f4eab522e6face@ec2-44-209-158-64.compute-1.amazonaws.com:5432/dc5822jv2dks1r
