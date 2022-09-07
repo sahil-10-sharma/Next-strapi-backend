@@ -70,7 +70,8 @@
         "fields": [
           "name",
           "slug",
-          "articles"
+          "articles",
+          "Image"
         ]
       },
       "conditions": []
@@ -88,7 +89,8 @@
         "fields": [
           "name",
           "slug",
-          "articles"
+          "articles",
+          "Image"
         ]
       },
       "conditions": []
@@ -100,7 +102,8 @@
         "fields": [
           "name",
           "slug",
-          "articles"
+          "articles",
+          "Image"
         ]
       },
       "conditions": []

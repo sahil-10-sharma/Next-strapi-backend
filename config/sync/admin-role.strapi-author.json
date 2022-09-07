@@ -9,11 +9,11 @@
       "properties": {
         "fields": [
           "title",
+          "image",
           "description",
           "content",
           "slug",
           "category",
-          "image",
           "author"
         ]
       },
@@ -35,11 +35,11 @@
       "properties": {
         "fields": [
           "title",
+          "image",
           "description",
           "content",
           "slug",
           "category",
-          "image",
           "author"
         ]
       },
@@ -53,11 +53,11 @@
       "properties": {
         "fields": [
           "title",
+          "image",
           "description",
           "content",
           "slug",
           "category",
-          "image",
           "author"
         ]
       },
