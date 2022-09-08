@@ -1375,7 +1375,7 @@
           ],
           "multiple": false
         },
-        "description": {
+        "smallDesc": {
           "type": "text",
           "required": true
         },
@@ -1460,7 +1460,7 @@
             ],
             "multiple": false
           },
-          "description": {
+          "smallDesc": {
             "type": "text",
             "required": true
           },

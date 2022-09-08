@@ -48,16 +48,16 @@
           "sortable": false
         }
       },
-      "description": {
+      "smallDesc": {
         "edit": {
-          "label": "description",
+          "label": "smallDesc",
           "description": "",
           "placeholder": "",
           "visible": true,
           "editable": true
         },
         "list": {
-          "label": "description",
+          "label": "smallDesc",
           "searchable": true,
           "sortable": true
         }
@@ -154,11 +154,7 @@
         "id",
         "title",
         "image",
-        "description"
-      ],
-      "editRelations": [
-        "category",
-        "author"
+        "smallDesc"
       ],
       "edit": [
         [
@@ -173,12 +169,6 @@
         ],
         [
           {
-            "name": "description",
-            "size": 6
-          }
-        ],
-        [
-          {
             "name": "content",
             "size": 12
           }
@@ -187,8 +177,16 @@
           {
             "name": "slug",
             "size": 6
+          },
+          {
+            "name": "smallDesc",
+            "size": 6
           }
         ]
+      ],
+      "editRelations": [
+        "category",
+        "author"
       ]
     }
   },

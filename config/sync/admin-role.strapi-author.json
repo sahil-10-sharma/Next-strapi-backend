@@ -10,11 +10,11 @@
         "fields": [
           "title",
           "image",
-          "description",
           "content",
           "slug",
           "category",
-          "author"
+          "author",
+          "smallDesc"
         ]
       },
       "conditions": [
@@ -36,11 +36,11 @@
         "fields": [
           "title",
           "image",
-          "description",
           "content",
           "slug",
           "category",
-          "author"
+          "author",
+          "smallDesc"
         ]
       },
       "conditions": [
@@ -54,11 +54,11 @@
         "fields": [
           "title",
           "image",
-          "description",
           "content",
           "slug",
           "category",
-          "author"
+          "author",
+          "smallDesc"
         ]
       },
       "conditions": [

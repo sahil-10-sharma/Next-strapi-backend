@@ -10,7 +10,7 @@
         "fields": [
           "title",
           "image",
-          "description",
+          "smallDesc",
           "content",
           "slug",
           "category",
@@ -38,7 +38,7 @@
         "fields": [
           "title",
           "image",
-          "description",
+          "smallDesc",
           "content",
           "slug",
           "category",
@@ -54,7 +54,7 @@
         "fields": [
           "title",
           "image",
-          "description",
+          "smallDesc",
           "content",
           "slug",
           "category",

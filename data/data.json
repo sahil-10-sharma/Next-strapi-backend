@@ -1,24 +1,48 @@
 {
   "categories": [
     {
-      "name": "news",
-      "slug": "news"
+      "name": "Windows",
+      "slug": "windows"
     },
     {
-      "name": "tech",
-      "slug": "tech"
+      "name": "Web 3",
+      "slug": "web3"
     },
     {
       "name": "food",
       "slug": "food"
     },
     {
-      "name": "nature",
-      "slug": "nature"
+      "name": "Ios",
+       "slug": "ios"
     },
     {
-      "name": "story",
-      "slug": "story"
+      "name": "Android",
+       "slug": "android"
+    },
+    {
+      "name": "Linux",
+      "slug": "linux"
+    },
+    {
+      "name": "Crypto",
+      "slug": "crypto"
+    },
+    {
+      "name": "Tech News",
+      "slug": "tech-news"
+    },
+    {
+      "name": "Programming",
+      "slug": "programming"
+    },
+    {
+      "name": "Health",
+        "slug": "health"
+    },
+    {
+      "name": "Trending",
+        "slug": "trending"
     }
   ],
   "homepage": {
